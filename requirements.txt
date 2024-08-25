@@ -1,0 +1,12 @@
+authlib
+flask
+flask-jwt-extended
+Flask-SQLAlchemy
+Flask-Migrate
+tqdm
+matplotlib
+numpy
+scikit-learn
+pandas
+psycopg2-binary
+Werkzeug
